@@ -1,0 +1,76 @@
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\bin\Debug\五子棋.exe.config
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\bin\Debug\五子棋.exe
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\bin\Debug\五子棋.pdb
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.csprojAssemblyReference.cache
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmGobang.resources
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.GenerateResource.cache
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.exe
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\五子棋\五子棋\obj\Debug\五子棋.pdb
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\bin\Debug\五子棋.exe.config
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\bin\Debug\五子棋.exe
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\bin\Debug\五子棋.pdb
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.csprojAssemblyReference.cache
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmGobang.resources
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.GenerateResource.cache
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.exe
+D:\1017大二上之前的文件\2020数媒 大二上\C#程序设计\作业二 五子棋\3547+张颖颖+实验3+五子棋\五子棋\五子棋\obj\Debug\五子棋.pdb
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\五子棋.exe.config
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\五子棋.exe
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\五子棋.pdb
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.AssemblyReference.cache
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmGobang.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.GenerateResource.cache
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.exe
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.pdb
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\Awesomium.Core.dll
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\Awesomium.Windows.Forms.dll
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\Awesomium.Core.xml
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\Awesomium.Windows.Forms.xml
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\en-US.dll
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\AwesomiumProcess
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\Awesomium.dll
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\bin\Debug\icudt42.dll
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmMainMenu.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmSecondMenu.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.csproj.CopyComplete
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmStory.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmWin.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmGobangPVP.resources
+E:\Study\C#\第四周\3547+张颖颖+实验2+五子棋\五子棋\五子棋\obj\Debug\五子棋.FrmSetTime.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\五子棋.exe.config
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\五子棋.exe
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\五子棋.pdb
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\Awesomium.Core.xml
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\Awesomium.Windows.Forms.xml
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\en-US.dll
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\AwesomiumProcess
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\Awesomium.dll
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\bin\Debug\icudt42.dll
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.csprojAssemblyReference.cache
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmGobang.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmMainMenu.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmSecondMenu.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmSetTime.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmStory.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmWin.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmGobangPVP.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.csproj.GenerateResource.cache
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.csproj.CopyComplete
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.exe
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.pdb
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.TwoPlayerSelect.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmSettings.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmReadGobangFile.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.RegistAndLogin.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmRegist.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmLevelsChoose.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmJumpToNextLevel.resources
+E:\大二小学期\CppandC#\期末大作业_五子棋\五子棋3.0\五子棋\五子棋\obj\Debug\五子棋.FrmForShopping.resources

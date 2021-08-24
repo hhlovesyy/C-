@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FC9C485A-E46B-4BD5-A41B-3C3588A84C50}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>五子棋</RootNamespace>
+    <AssemblyName>五子棋</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Awesomium.Core, Version=1.6.6.0, Culture=neutral, PublicKeyToken=e1a0d7c8071a5214" />
+    <Reference Include="Awesomium.Windows.Forms, Version=1.6.6.0, Culture=neutral, PublicKeyToken=9bd24830fbe304a0, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlackPiece.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Borad.cs" />
+    <Compile Include="FrmForShopping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmForShopping.Designer.cs">
+      <DependentUpon>FrmForShopping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGobang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGobang.Designer.cs">
+      <DependentUpon>FrmGobang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJumpToNextLevel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJumpToNextLevel.Designer.cs">
+      <DependentUpon>FrmJumpToNextLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLevelsChoose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLevelsChoose.Designer.cs">
+      <DependentUpon>FrmLevelsChoose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMainMenu.Designer.cs">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReadGobangFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReadGobangFile.Designer.cs">
+      <DependentUpon>FrmReadGobangFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegist.Designer.cs">
+      <DependentUpon>FrmRegist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSecondMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSecondMenu.Designer.cs">
+      <DependentUpon>FrmSecondMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSetTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSetTime.Designer.cs">
+      <DependentUpon>FrmSetTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStory.Designer.cs">
+      <DependentUpon>FrmStory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWin.Designer.cs">
+      <DependentUpon>FrmWin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGobangPVP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGobangPVP.Designer.cs">
+      <DependentUpon>FrmGobangPVP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game.cs" />
+    <Compile Include="GameBoardAI.cs" />
+    <Compile Include="GameManager.cs" />
+    <Compile Include="InputDialog.cs" />
+    <Compile Include="Piece.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Pieces.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PieceType.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistAndLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistAndLogin.Designer.cs">
+      <DependentUpon>RegistAndLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings.Designer.cs">
+      <DependentUpon>settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TwoPlayerSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TwoPlayerSelect.Designer.cs">
+      <DependentUpon>TwoPlayerSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserController.cs" />
+    <Compile Include="WhitePiece.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FrmForShopping.resx">
+      <DependentUpon>FrmForShopping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGobang.resx">
+      <DependentUpon>FrmGobang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJumpToNextLevel.resx">
+      <DependentUpon>FrmJumpToNextLevel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLevelsChoose.resx">
+      <DependentUpon>FrmLevelsChoose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMainMenu.resx">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReadGobangFile.resx">
+      <DependentUpon>FrmReadGobangFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegist.resx">
+      <DependentUpon>FrmRegist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSecondMenu.resx">
+      <DependentUpon>FrmSecondMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetTime.resx">
+      <DependentUpon>FrmSetTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStory.resx">
+      <DependentUpon>FrmStory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWin.resx">
+      <DependentUpon>FrmWin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGobangPVP.resx">
+      <DependentUpon>FrmGobangPVP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistAndLogin.resx">
+      <DependentUpon>RegistAndLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings.resx">
+      <DependentUpon>settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TwoPlayerSelect.resx">
+      <DependentUpon>TwoPlayerSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\board.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\board-mini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-60.png" />
+    <None Include="bin\Debug\gobangsaving1.jpg" />
+    <None Include="bin\Debug\gobangsaving2.jpg" />
+    <None Include="bin\Debug\gobangsaving3.jpg" />
+    <Content Include="Resources\black2.png" />
+    <None Include="Resources\board-expanded2.png" />
+    <None Include="Resources\board-expanded3.png" />
+    <None Include="Resources\white-60.png" />
+    <None Include="Resources\icon.png" />
+    <None Include="Resources\buhdda.jpg" />
+    <None Include="Resources\cut1.PNG" />
+    <None Include="Resources\cut2.PNG" />
+    <None Include="Resources\cut3.PNG" />
+    <None Include="Resources\cut4.PNG" />
+    <None Include="Resources\cut5.PNG" />
+    <None Include="Resources\jietu1.jpg" />
+    <None Include="Resources\givememoney.jpg" />
+    <None Include="Resources\showmoney.png" />
+    <Content Include="Resources\white2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
